@@ -1,0 +1,13 @@
+C:\WebAPI\Reserva\bin\Release\Reserva.dll
+C:\WebAPI\Reserva\bin\Release\Reserva.pdb
+C:\WebAPI\Reserva\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\WebAPI\Reserva\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\WebAPI\Reserva\bin\Release\Microsoft.Practices.Unity.dll
+C:\WebAPI\Reserva\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\WebAPI\Reserva\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\WebAPI\Reserva\bin\Release\Microsoft.Practices.Unity.pdb
+C:\WebAPI\Reserva\obj\Release\Reserva.csprojResolveAssemblyReference.cache
+C:\WebAPI\Reserva\obj\Release\Reserva.csproj.CoreCompileInputs.cache
+C:\WebAPI\Reserva\obj\Release\Reserva.csproj.CopyComplete
+C:\WebAPI\Reserva\obj\Release\Reserva.dll
+C:\WebAPI\Reserva\obj\Release\Reserva.pdb

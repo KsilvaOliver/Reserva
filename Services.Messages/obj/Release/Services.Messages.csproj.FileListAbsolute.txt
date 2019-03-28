@@ -1,0 +1,9 @@
+C:\WebAPI\Services.Messages\bin\Release\Services.Messages.dll
+C:\WebAPI\Services.Messages\bin\Release\Services.Messages.pdb
+C:\WebAPI\Services.Messages\bin\Release\Services.Dtos.dll
+C:\WebAPI\Services.Messages\bin\Release\Services.Dtos.pdb
+C:\WebAPI\Services.Messages\obj\Release\Services.Messages.csprojResolveAssemblyReference.cache
+C:\WebAPI\Services.Messages\obj\Release\Services.Messages.csproj.CoreCompileInputs.cache
+C:\WebAPI\Services.Messages\obj\Release\Services.Messages.csproj.CopyComplete
+C:\WebAPI\Services.Messages\obj\Release\Services.Messages.dll
+C:\WebAPI\Services.Messages\obj\Release\Services.Messages.pdb

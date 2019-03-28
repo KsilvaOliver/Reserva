@@ -1,0 +1,5 @@
+C:\WebAPI\Service.Business\bin\Release\Service.Business.dll
+C:\WebAPI\Service.Business\bin\Release\Service.Business.pdb
+C:\WebAPI\Service.Business\obj\Release\Service.Business.csproj.CoreCompileInputs.cache
+C:\WebAPI\Service.Business\obj\Release\Service.Business.dll
+C:\WebAPI\Service.Business\obj\Release\Service.Business.pdb

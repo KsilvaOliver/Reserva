@@ -1,0 +1,15 @@
+C:\WebAPI\Infrastructure.SqlClient\bin\Release\Infrastructure.SqlClient.dll
+C:\WebAPI\Infrastructure.SqlClient\bin\Release\Infrastructure.SqlClient.pdb
+C:\WebAPI\Infrastructure.SqlClient\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\WebAPI\Infrastructure.SqlClient\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\WebAPI\Infrastructure.SqlClient\bin\Release\Microsoft.Practices.Unity.dll
+C:\WebAPI\Infrastructure.SqlClient\bin\Release\Reserva.dll
+C:\WebAPI\Infrastructure.SqlClient\bin\Release\Reserva.pdb
+C:\WebAPI\Infrastructure.SqlClient\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\WebAPI\Infrastructure.SqlClient\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\WebAPI\Infrastructure.SqlClient\bin\Release\Microsoft.Practices.Unity.pdb
+C:\WebAPI\Infrastructure.SqlClient\obj\Release\Infrastructure.SqlClient.csprojResolveAssemblyReference.cache
+C:\WebAPI\Infrastructure.SqlClient\obj\Release\Infrastructure.SqlClient.csproj.CoreCompileInputs.cache
+C:\WebAPI\Infrastructure.SqlClient\obj\Release\Infrastructure.SqlClient.csproj.CopyComplete
+C:\WebAPI\Infrastructure.SqlClient\obj\Release\Infrastructure.SqlClient.dll
+C:\WebAPI\Infrastructure.SqlClient\obj\Release\Infrastructure.SqlClient.pdb

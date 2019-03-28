@@ -1,0 +1,6 @@
+C:\WebAPI\Services.Dtos\bin\Release\Services.Dtos.dll
+C:\WebAPI\Services.Dtos\bin\Release\Services.Dtos.pdb
+C:\WebAPI\Services.Dtos\obj\Release\Services.Dtos.csprojResolveAssemblyReference.cache
+C:\WebAPI\Services.Dtos\obj\Release\Services.Dtos.csproj.CoreCompileInputs.cache
+C:\WebAPI\Services.Dtos\obj\Release\Services.Dtos.dll
+C:\WebAPI\Services.Dtos\obj\Release\Services.Dtos.pdb

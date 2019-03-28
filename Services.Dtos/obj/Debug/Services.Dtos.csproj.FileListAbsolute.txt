@@ -1,0 +1,11 @@
+C:\Users\kleber.silva\source\Application\Application\Services.Dtos\obj\Debug\Services.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\kleber.silva\source\Application\Application\Services.Dtos\bin\Debug\Services.Dtos.dll
+C:\Users\kleber.silva\source\Application\Application\Services.Dtos\bin\Debug\Services.Dtos.pdb
+C:\Users\kleber.silva\source\Application\Application\Services.Dtos\obj\Debug\Services.Dtos.dll
+C:\Users\kleber.silva\source\Application\Application\Services.Dtos\obj\Debug\Services.Dtos.pdb
+C:\WebAPI\Services.Dtos\bin\Debug\Services.Dtos.dll
+C:\WebAPI\Services.Dtos\bin\Debug\Services.Dtos.pdb
+C:\WebAPI\Services.Dtos\obj\Debug\Services.Dtos.csproj.CoreCompileInputs.cache
+C:\WebAPI\Services.Dtos\obj\Debug\Services.Dtos.dll
+C:\WebAPI\Services.Dtos\obj\Debug\Services.Dtos.pdb
+C:\WebAPI\Services.Dtos\obj\Debug\Services.Dtos.csprojResolveAssemblyReference.cache

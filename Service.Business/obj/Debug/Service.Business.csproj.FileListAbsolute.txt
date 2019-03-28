@@ -1,0 +1,6 @@
+C:\WebAPI\Service.Business\bin\Debug\Service.Business.dll
+C:\WebAPI\Service.Business\bin\Debug\Service.Business.pdb
+C:\WebAPI\Service.Business\obj\Debug\Service.Business.csproj.CoreCompileInputs.cache
+C:\WebAPI\Service.Business\obj\Debug\Service.Business.dll
+C:\WebAPI\Service.Business\obj\Debug\Service.Business.pdb
+C:\WebAPI\Service.Business\obj\Debug\Service.Business.csprojResolveAssemblyReference.cache
